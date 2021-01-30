@@ -8,4 +8,4 @@ Spaced out certain code lines in the HTML to give the code tree a more streamlin
 
 In the CSS style sheet, there were quite a few redundant functions that created an unnecessarily long CSS list.  Combined and removed the redundant functions and reduced the overall line amount.
 
-[Deployed Page]()
+[Deployed Page](https://zenastis.github.io/HTML-Refactor-homework1/)
